@@ -1,10 +1,2 @@
 # Sezy
-<div class="jam-digital">
-   <h1>Jam Digital</h1>
-   <div id="jam"></div>
-   <div id="unit">
-     <span>Jam</span>
-     <span>Menit</span>
-     <span>Detik</span>
-   </div>
-</div>
+ig.@sezy0_
