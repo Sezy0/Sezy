@@ -14,7 +14,7 @@
 - ⚙️ Skilled in multiple languages: **Go**, **Rust**, **PHP**, **Node.js**, **Python**, and **JavaScript**
 - 🚀 Passionate about building efficient, scalable, and secure systems  
 - 🧠 Always learning new tech, improving performance, and exploring better architecture  
-- 📫 Reach me at: `sheizy@example.com`  
+- 📫 Reach me at: `sezy@icloud.com`  
 - 🎮 Fun fact: I enjoy coding bots that automate repetitive tasks — for fun or business.
 
 ---
